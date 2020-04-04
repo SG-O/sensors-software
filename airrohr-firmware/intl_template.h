@@ -62,7 +62,6 @@ const char INTL_PORT[] PROGMEM = "";
 const char INTL_USER[] PROGMEM = "";
 const char INTL_PASSWORD[] PROGMEM = "";
 const char INTL_MEASUREMENT[] PROGMEM = "";
-const char INTL_MEASUREMENT[] PROGMEM = "";
 const char INTL_SEND_TO[] PROGMEM = "";
 const char INTL_READ_FROM[] PROGMEM = "";
 const char INTL_SENSOR_IS_REBOOTING[] PROGMEM = "";
@@ -82,7 +81,6 @@ const char INTL_DEVICE_STATUS[] PROGMEM = "";
 #define INTL_RESTART ""
 const char INTL_SAVE_AND_RESTART[] PROGMEM = "";
 #define INTL_FIRMWARE ""
-#define INTL_REPORT_ISSUE ""
 const char INTL_DEBUG_SETTING_TO[] PROGMEM = "";
 #define INTL_NONE ""
 #define INTL_ERROR ""
